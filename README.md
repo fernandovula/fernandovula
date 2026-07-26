@@ -25,6 +25,13 @@ Atualmente estou focado no desenvolvimento de sistemas desktop e web, incluindo 
             src="https://custom-icon-badges.demolab.com/github/followers/fernandovula?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/pluie_jr/" target="_blank">
+    <img 
+        alt="Instagram"
+        title="Entre em contacto"
+        src="https://custom-icon-badges.demolab.com/badge/📸_Instagram-@pluie__jr-purple?style=for-the-badge"
+    />
+</a>
 </p>
 
 ---
